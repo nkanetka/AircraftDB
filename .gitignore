@@ -16,3 +16,10 @@ internal.md
 
 # logs
 *.log
+
+# Xcode
+*.xcworkspacedata
+*.xcuserstate
+*.xcworkspacedata
+frontend/FlightView/FlightView.xcodeproj/xcuserdata/nehal.xcuserdatad/xcschemes/xcschememanagement.plist
+frontend/FlightView/FlightView.xcodeproj/xcuserdata/nehal.xcuserdatad/xcschemes/FlightView.xcscheme
